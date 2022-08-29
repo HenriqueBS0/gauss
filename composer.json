@@ -1,0 +1,18 @@
+{
+    "name": "henriquebs0/gauss",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HenriqueBS0\\Gauss\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HenriqueBS0",
+            "email": "henrique.10agr@gmail.com"
+        }
+    ],
+    "require": {
+        "henriquebs0/router": "dev-main"
+    }
+}
